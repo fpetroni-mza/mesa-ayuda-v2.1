@@ -1,0 +1,199 @@
+[
+    {
+        "titulo": "Alumbrado Público",
+        "contenido": [
+            "Los trabajos correspondientes a esta AS son ejecutados en su mayoría por el servicio tercerizado de alumbrado público, cuya empresa prestataria es Lumen S.A.",
+            "Cabe destacar que los trabajos que realiza dicha empresa son supervisados y autorizados por parte de la División de Obras Eléctricas, dependientes de la Dirección de Obras Públicas."
+        ],
+        "datos": {
+            "encargado": "Marcelo Gelfman",
+            "estructura-municipal": "Obras Eléctricas / Dirección de Obras Pública",
+            "contacto": ""
+        },
+        "tipos-incidentes": ""
+    },
+    {
+        "titulo": "Ambiente y Desarrollo Sostenible",
+        "contenido": [
+            "Esta área de servicio engloba los incidentes correspondientes a la Subsecretaría de Ambiente y Desarrollo Sostenible, oficina que se ocupa de las políticas de <i>protección del ambiente a través de diferentes programas que apuntan a que la comunidad se sienta protagonista del cuidado de nuestro hábitat</i>, como así también de los proyectos englobados en la Movilidad Sustentable.",
+            "<i>Información extraída de <a href=\"https://ciudaddemendoza.gob.ar/secretaria-planificacion-infraestructura-y-ambiente/subsecretaria-de-desarrollo-urbano/\" target=\"_blank\">ciudaddemendoza.gob.ar</a></i>"
+        ],
+        "datos": {
+            "encargado": "Lic. Sebastián Fermani",
+            "estructura-municipal": "Secretaría de Desarrollo Urbano",
+            "contacto": "(0261) 449-5234"
+        },
+        "tipos-incidentes": ""
+    },
+    {
+        "titulo": "Arbolado",
+        "contenido": [],
+        "datos": {
+            "encargado": "Ivanna Klimisch",
+            "estructura-municipal": "Dirección de Espacios Verdes / Subsecretaría de Planificación y Arbolado",
+            "contacto": ""
+        },
+        "tipos-incidentes": ""
+    },
+    {
+        "titulo": "Calles y Veredas",
+        "contenido": [
+            "La Subsecretaría de Infraestructura se encarga del control, mantenimiento, resguardo y ejecución de trabajos sobre la vía pública."
+        ],
+        "datos": {
+            "encargado": "José Fornes",
+            "estructura-municipal": "Subsecretaría de Infraestructura",
+            "contacto": ""
+        },
+        "tipos-incidentes": ""
+    },
+    {
+        "titulo": "Cementerio",
+        "contenido": [],
+        "datos": {
+            "encargado": "Julio José Curia",
+            "estructura-municipal": "Subsecretaría de Infraestructura",
+            "contacto": ""
+        },
+        "tipos-incidentes": ""
+    },
+    {
+        "titulo": "Centros de Atención Municipal",
+        "contenido": [""],
+        "datos": {
+            "encargado": "Juan José González Montenegro",
+            "estructura-municipal": "Subsecretaría de Atención y Cercanía",
+            "contacto": "(0261) 155-590511"
+        },
+        "tipos-incidentes": ""
+    },
+    {
+        "titulo": "Comercio",
+        "contenido": [],
+        "datos": {
+            "encargado": "Pedro Dantiacq",
+            "estructura-municipal": "Secretraría de Desarrollo Económico",
+            "contacto": "(0261) 449-5294"
+        },
+        "tipos-incidentes": ""
+    },
+    {
+        "titulo": "Control de Gestión",
+        "contenido": [],
+        "datos": {
+            "encargado": "Federico Petroni",
+            "estructura-municipal": "Subsecretaría de Atención y Cercanía",
+            "contacto": "(0261) 449-5314"
+        },
+        "tipos-incidentes": ""
+    },
+    {
+        "titulo": "Espacios Verdes",
+        "contenido": [
+            "Esta área de servicio engloba los tipos de incidentes referetes a las intervenciones que los ciudadanos manifiesten realizar sobre los parques, plazas y paseos que se encuentren dentro de la Ciudad de Mendoza, y que correspondan exlusivamente a jurisdicción municipal, por lo que tanto Parque Cívico como Parque San Martín no entran dentro de los pedidos."
+        ],
+        "datos": {
+            "encargado": "Ing. Ivanna Klimisch",
+            "estructura-municipal": "Dirección de Espacios Verdes / Subsecretaría de Planificación y Arbolado",
+            "contacto": ""
+        },
+        "tipos-incidentes": ""
+    },
+    {
+        "titulo": "Higiene Urbana",
+        "contenido": [
+            "La Dirección de Higiene Urbana se encarga de limpieza de la vía pública en el radio de la Ciudad de Mendoza. Actualmente parte de la ciudad se encuentra intervenida por la contratación de una UTE (Santa Elena) que realiza parte del servicio de limpieza."
+        ],
+        "datos": {
+            "encargado": "Leonardo Quiroga",
+            "estructura-municipal": "Dirección de Higiene Urbana / Subsecretaría de Planificación y Arbolado",
+            "contacto": ""
+        },
+        "tipos-incidentes": ""
+    },
+    {
+        "titulo": "Obras Privadas",
+        "contenido": [],
+        "datos": {
+            "encargado": "Eva Gonzalez",
+            "estructura-municipal": "Dirección de Obras Privadas / Subsecretraría de Planificación y Arbolado",
+            "contacto": "(0261) 449-5140/5147"
+        },
+        "tipos-incidentes": ""
+    },
+    {
+        "titulo": "Obras Públicas",
+        "contenido": [],
+        "datos": {
+            "encargado": "Arq. Paola Meretta",
+            "estructura-municipal": "Dirección de Obras Públicas / Subsecretaría de Infraestructura",
+            "contacto": ""
+        },
+        "tipos-incidentes": ""
+    },
+    {
+        "titulo": "Rentas",
+        "contenido": [
+            "Sobre esta Área de Servicio se engloban algunas gestiones que pueden registrarse y evaluarse por la Dirección de Rentas, como: consultas en masivas de tasas de servicio, excenciones, cobros, entre otros."
+        ],
+        "datos": {
+            "encargado": "Roberto Galofré",
+            "estructura-municipal": "Dirección de Rentas / Secretraría de Hacienda",
+            "contacto": ""
+        },
+        "tipos-incidentes": ""
+    },
+    {
+        "titulo": "Salud Animal",
+        "contenido": [],
+        "datos": {
+            "encargado": "Patricia Aldunate / Inés Torres",
+            "estructura-municipal": "Dirección de Salud",
+            "contacto": ""
+        },
+        "tipos-incidentes": ""
+    },
+    {
+        "titulo": "Saneamiento Ambiental",
+        "contenido": [],
+        "datos": {
+            "encargado": "Cristian Salinas",
+            "estructura-municipal": "Dirección de Higiene Urbana / Subsecretaría de Planificación y Arbolado",
+            "contacto": ""
+        },
+        "tipos-incidentes": ""
+    },
+    {
+        "titulo": "Seguridad Ciudadana",
+        "contenido": [],
+        "datos": {
+            "encargado": "Mario Campos",
+            "estructura-municipal": "Secretaría de Seguridad Ciudadana",
+            "contacto": ""
+        },
+        "tipos-incidentes": ""
+    },
+    {
+        "titulo": "Tránsito",
+        "contenido": [
+            "La Dirección de Tránsito se encarga de la aplicación y control del cumplimiento de la Ley Provincial de Tránsito n° 9024/17. Contamos con un equipo de inspección de 20 personas distribuidas en cuatro turnos, todos los días las 24 hs., que están especializados en la atención de accidentes viales. Además disponemos de 175 inspectores e inspectoras de tránsito, ocupados en el control de flujo vehicular, atención de playas de retención (Coronel Plaza y San Agustín), prevención frente a establecimientos escolares, entre otras acciones. Están distribuidos en turnos mañana, tarde, noche. Realizan operativos nocturnos.",
+            "<i>Información extraída de <a href=\"https://ciudaddemendoza.gob.ar/secretaria-de-seguridad-ciudadana/transito/\" target=\"_blank\">ciudaddemendoza.gob.ar</a></i>"
+        ],
+        "datos": {
+            "encargado": "Comisario Héctor Becerra",
+            "estructura-municipal": "Dirección de Tránsito / Secretaría de Seguridad Ciudadana",
+            "contacto": "(0261) 449-5306 /Cambiar/"
+        },
+        "tipos-incidentes": ""
+    },
+    {
+        "titulo": "",
+        "contenido": [],
+        "datos": {
+            "encargado": "",
+            "estructura-municipal": "",
+            "contacto": ""
+        },
+        "tipos-incidentes": ""
+    }
+]
