@@ -1,12 +1,54 @@
 [
     {
-        "tema": "Artefacto Vandalizado",
-        "descripcion": [
-            "El municipio tiene a su cargo el arreglo y mantenimiento solo los artefactos anexados a los brazos de las luminarias; en caso de las farolas de veredas (no confundir con los brazos de postes que alumbran a veredas), responde por el poste completo.",
-            "De ser posible, solicitar foto del artefacto para determinar el daño."
-        ]
+        "tema": "Artefacto colgando",
+        "descripcion": "El municipio tiene a su cargo el arreglo y mantenimiento solo los artefactos anexadosa los brazos de las luminarias; en caso de las farolas de veredas (no confundir con los brazos de postes que alumbran a veredas), responde por el poste completo.\nDe ser posible, solicitar foto del artefacto para determinar el daño."
     },
     {
-
+        "tema": "Artefacto vandalizado",
+        "descripcion": "Determinar correctamente el grado de vandalización de la luminaria o farola de vereda. El municipio solo tiene a su cargo el mantenimiento de farolas de vereda y de los artefactos de las luminarias públicas"
+    },
+    {
+        "tema": "Cable expuesto o peligroso",
+        "descripcion": "Comunicar al ciudadano que se desplazará personal de alumbrado público para determinar el peligro.\nSe debe solicitar y declarar correctamente dónde se encuentra los cables expuestos o peligrosos, dado que el cableado electrificado es manipulado (le corresponde mantenimeinto) por la empresa del servicio eléctrico EDEMSA."
+    },
+    {
+        "tema": "Corte de suministro",
+        "descripcion": "Para los casos de cortes que afecten a las luminarias que alumbran calzadas, se registra para que el servicio determine el problema pero que será derivado para su restitución a la empresa de servicio eléctrico EDEMSA.\nEn los casos que el corte corresponda a farolas de vereda o de plazas, parques o paseos municipales, es el servicio de alumbrado público municipal el encargado de restitución, salvo el caso que sea una falla de suministro eléctrico de la empresa EDEMSA, lo cual será comunicado al momento de resolver el problema."
+    },
+    {
+        "tema": "Luminaria dañada / quemada",
+        "descripcion": "Debe solicitarse dirección lo más precisa posible para poder ubicar el poste en concreto que se encuentra apagado.\neclarar en las observaciones: tiempo aproximado de apagado, si correpsonde a brazo que apunta a calzada, vereda o ambos (para los casos que la luminaria posea ambos brazos) o se trate de farolas en vereda; si fue reparada con anterioridad.\nSe debe informar al ciudadano que para los casos en que se hayan apagado 3 o más luminarias (una cuadra completa), el problema suele ser de índole eléctrico y debe ser comunicado a la empresa de EDEMSA, y por ende, debe comunicarse a la misma y que le tomen el reclamo por el problema ocmunicado."
+    },
+    {
+        "tema": "Luminaria encendida de día",
+        "descripcion": "Si las luminarias afectadas son farolas de vereda o alumbrado de espacios verdes, es el municipio quien responde por ello; para los postes de luminarias de calzada y/o vereda, puede deberse a trabajos de EDEMSA.\nDejar aclarado en observaciones a qué tipo de luminarias corresponden, dónde se encuentran y cuántas."
+    },
+    {
+        "tema": "Luminaria faltante",
+        "descripcion": "Se asienta una luminaria faltante cuando todo el aparato lumínico no se encuentra en el poste en cuestión.\nPara el caso, dejar aclarado si es de farola en vereda, poste de alumbrado público o luminarias de espacios verdes."
+    },
+    {
+        "tema": "Luminaria intermitente",
+        "descripcion": "Sea el caso de una luminaria que enciende y apaga de manera periódica y cíclica en plazos cortos de tiempo (razón de minutos). Puede deberse a diversas fuentes (problemas eléctricos, problemas de aparato lumínico, etc.).\nPara el caso, dejar aclarado si es de farola vereda, poste de alumbrado público o luminarias de espacios verdes."
+    },
+    {
+        "tema": "Poste caído / peligro de caída",
+        "descripcion": "Como ente de resguardo de la seguridad pública, el hecho se constata a través de un registro en el sistema, pero el mantenimeinto y quien responde por el arreglo de un posto caído o con peligro de caída es la empresa de servicio que lo colocó.\nTomar constancia de la situación de peligro dando detalles de lo informado (la base se encuentra podrida, corroída o desgranada, material del poste, inclinación, hacia dónde se inclina, etc.)"
+    },
+    {
+        "tema": "Poste / brazo averiado<",
+        "descripcion": "Pese a que el arreglo de los postes de tendido eléctrico y de alumbrado público corresponden a las empresas de servicio a los que pertenecen, se toma registro del hecho para evaluación del estado del mismo.\nSi en la comunicación el operador determina que el poste o brazo dañado se encuentra en un estado que determine una intervención de urgencia, registrar como \"Poste caído / peligro de caída\""
+    },
+    {
+        "tema": "Ruido en columna o luminaria",
+        "descripcion": "Los ruidos anormales en postes eléctricos, tanto si son emitidos por el cableado, transformador, tablero o aparatos de iluminación, pueden ser señales de averías importantes o incluso problemas que genere riesgo a la seguridad pública.\nDependiendo de la situación que sea informada por el ciudadano, dejar en observación la mayor calidad de detalles de lo expuesto. Informar a su vez, que es conveniente que el hecho sea también comunicado a la o las empresas de servicio afectadas (cables eléctricos o transformadores, son de correspondencia de EDEMSA, cableados telefónicos, fibra óptica o televisión por cable coaxil, a los prestatarios de dichos servicios.)"
+    },
+    {
+        "tema": "Zona oscura / Falta de iluminación",
+        "descripcion": "Una zona oscura puede deberse a diferentes razones, por tanto dejar en observación el motivo por el cual el ciudadano deterina que en el lugar hay falta de iluminación, siempre que no corresponda a un poste que se encuentra apagado, ya que en ese caso es el artefacto dañado el motivo.\nEntre los motivos de falta de iluminación pueden ser: postes separados por una distancia que generen zonas oscuras entre los conos de iluminación de cada uno, ramas de forestales que tapan las luminarias existentes, falta de postes eléctricos, brazos a baja altura o cortos en longitud lo cual produce que el cono de iluminación no barra correctamente la zona, entre otros.</p>"
+    },
+    {
+        "tema": "",
+        "descripcion": ""
     }
 ]
