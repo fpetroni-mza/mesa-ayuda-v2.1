@@ -58,10 +58,6 @@
             {
                 "tema": "Zona oscura / Falta de iluminación",
                 "descripcion": "Una zona oscura puede deberse a diferentes razones, por tanto dejar en observación el motivo por el cual el ciudadano deterina que en el lugar hay falta de iluminación, siempre que no corresponda a un poste que se encuentra apagado, ya que en ese caso es el artefacto dañado el motivo.\nEntre los motivos de falta de iluminación pueden ser: postes separados por una distancia que generen zonas oscuras entre los conos de iluminación de cada uno, ramas de forestales que tapan las luminarias existentes, falta de postes eléctricos, brazos a baja altura o cortos en longitud lo cual produce que el cono de iluminación no barra correctamente la zona, entre otros.</p>"
-            },
-            {
-                "tema": "",
-                "descripcion": ""
             }
         ]
     },
@@ -76,7 +72,32 @@
             "estructura-municipal": "Secretaría de Desarrollo Urbano",
             "contacto": "(0261) 449-5234"
         },
-        "tipos-incidentes": ""
+        "tipos-incidentes": [
+            {
+                "tema": "Consultas por programas",
+                "descripcion": "La subsecretaría de Ambiente y Desarrollo Sostenible posee múltiples programas donde los vecinos pueden ser partícipes, entre los que se encuentran, junto a otros que no se mencionan:\n<ul><li>Programa de Puntos Verdes y contenedores de envases PET.</li><li>Munihéroes Ambientales</li><li>Programa de recolección de pilas y baterías en desuso</li><li>Gestión Responsable de Residuos Electrónicos de la comuna</li></ul>\nSi el vecino posee alguna consulta sobre alguno de los prorgamas, dejar declarado en este apartado. Tener en cuenta de tomar los correctamente todos los datos del vecino a fin de poder comunicarse con él y asesorar al respecto (Se puede encontrar un resumen de cada programa haciendo <a href=\"https://ciudaddemendoza.gob.ar/secretaria-de-seguridad-ciudadana/transito/\" target=\"_blank\">clic aquí</a>)."
+            },
+            {
+                "tema": "Punto de recolección de pilas",
+                "descripcion": "El Programa de Recolección de Pilas tiene asociado a varios comercios de la Ciudad de Mendoza como puntos de recepción de pilas y baterias, en donde los ciudadanos pueden desechar seguramente sus pilas y baterías en desuso.\nSi el vecino se comunica porque pertenece al programa y solicita que pasen a vaciar el contenedor que posee, se debe dejar asentado en este tipo de incidente.\n<div class=\"div-preguntas-incidentes\"><p>Preguntas orientativas al operador:</p><ul><li>Nombre / Rubro del local comercial.</li><li>Dejar bien declarada la dirección del local comercial.</li><li>¿Cuántos recipientes tiene para retiro?</li><li>Horarios de atención del local (para la coordinación de la recolección)</li><li>Anotar los datos completos del ciudadano, con el fin de poder mantener un contacto conel mismo por cualquier consulta o eventualidad.</li></ul></div>"
+            },
+            {
+                "tema": "Punto RAE - solicitud de vaciado",
+                "descripcion": "El Programa de Gestión de Residuos de Aparatos Electrónicos y Eléctricos (RAEE), es coordinado en conjunto con una empresa privad de recolección y tratamiento de los mismos.\nPara el caso que una empresa, institución o persona particular desee solicitar el retiro de residuos RAE, o en caso que informen sobre un punto urbano RAE saturado, dejar declarado correspondientemente en este tipo de incidente, declarando dirección, datos completas del vecino que se comunica y las observaciones correspondientes según sea el caso (Punto saturado o recolección).\nPara asesoramientos sobre el programa en cuestión, dejar declarado en <b>Consultas por programas"
+            },
+            {
+                "tema": "Punto verde saturado",
+                "descripcion": "Para el caso, la recolección de los residuos reciclables de los Puntos Verdes y Ruleros de la Ciudad de Mendoza son realizados por el Servicio Tercerizado de limpieza UTE - Santa Elena.\n<div class=\"div-preguntas-incidentes\"><p>Preguntas orientativas al operador:</p><ul><li>¿Qué tipo de contenedor es el saturado? (Rulero de botellas o contenedor de separaciónde residuos)</li><li>¿Posee solo residuos reciclables o los vecinos han tirado sólidos urbanos domiciliarios?</li><li>¿Cuál es la ubicación del punto verde?</li></ul></div>\n<span class=\"span-nota-incidentes\"><mark>NOTA: la recolección de los puntos verdes se realiza periodicamente los días martes y viernes.</mark></span>"
+            },
+            {
+                "tema": "Reclamos del CCB (ex Acuario Municipal)",
+                "descripcion": "El actual Centro de Conservación de la Biodiversidad (ex Acuario Municipal), se encuentra a cargo de la Subsecretaría de Ambiente.\nLos ciudadanos que tengan reclamos de cualquier índole referido al Centro, se registrarán por este medio. Se solicita por parte del operador dejar una descripción detallada y clara del problema, tomar los datos completos del ciudadano que deja el reclamo y en la dirección declarar el <i>efectivo CCB</i>."
+            },
+            {
+                "tema": "Reclamos Ambientales",
+                "descripcion": "Pueden incluirse reclamos como:\n <ul style=\"font-style: oblique;\"><li>Desmonte de flora autoctona (zona oeste)</li><li>Obstruccion de causes naturales (por movimiento de suelo, por vaciado de basura, etc.)</li><li>Caza de fauna autoctona (no es cmpetencia municipal, recibe la Subsecretaria de Ambiente yel área de Ordenamiento Territoral de la provincia <mark>Llamar al :xxxxx</mark></li><li>Denuncias generales sobre vertido de materiales tóxicos o peligrosos en la vía pública (si el vertido es de aguas servidas sobre acequias, registrar en el área de servicio de obras privadas)</li><li>Generacion de nuevos micro basurales (vertidio de basura escombros y otros en sectores públicos y/o privados).</li></ul><div class=\"div-preguntas-incidentes\"><p>Preguntas orientativas al operador:</p><ul><li>Descripción del reclamo ambiental. Dependiendo de la naturaleza del problema, declarar la urgencia del mismo.</li><li>Dirección del hecho, el cual debe ser lo más preciso posible.</li><li>Datos completos del denunciante, a fin de poder contactarlo en caso de ser necesario.</li></ul></div>"
+            }
+        ]
     },
     {
         "titulo": "Arbolado",
@@ -86,7 +107,28 @@
             "estructura-municipal": "Dirección de Espacios Verdes / Subsecretaría de Planificación y Arbolado",
             "contacto": ""
         },
-        "tipos-incidentes": ""
+        "tipos-incidentes": [
+            {
+                "tema": "",
+                "descripcion": ""
+            },
+            {
+                "tema": "",
+                "descripcion": ""
+            },
+            {
+                "tema": "",
+                "descripcion": ""
+            },
+            {
+                "tema": "",
+                "descripcion": ""
+            },
+            {
+                "tema": "",
+                "descripcion": ""
+            }
+        ]
     },
     {
         "titulo": "Calles y Veredas",
@@ -98,7 +140,28 @@
             "estructura-municipal": "Subsecretaría de Infraestructura",
             "contacto": ""
         },
-        "tipos-incidentes": ""
+        "tipos-incidentes": [
+            {
+                "tema": "Colocación / falta de tachas reductoras",
+                "descripcion": "Los reductores de velocidad que se colocan sobre las intersecciones de las calzadas son repuestos por el personal de Obras por Administración. Si la solicitud corresponde a la solicitud de colocación de reductores, debe ser gestionado para el área de Tránsito, debido a que el área técnica debe evaluar la viabilidad de la colocación de las mismas."
+            },
+            {
+                "tema": "",
+                "descripcion": "La reparación de los cordones corre por parte del servicio de Obras por Adminstración. Si el ciudadano se comunica para solicitar arreglo de cordón de calzada y cuneta, se debe de registrar como incidentes separados, ya que los trabajos por lo general no se ejecutan a la par, salvo que corresponda a un arreglo integral de la sección, programado con antelación en algún proyecto por parte del área.\n<div class=\"div-preguntas-incidentes\"> <p>Preguntas orientativas al operador:</p> <ul> <li>¿Hace cuánto tiempo los cordones se encuentran rotos?</li> <li>¿Se encuentran desgranados, desprendidos o simplemente no se encuentran?</li> <li>Determinar la dirección en la que se encuentran. Si corresponde a dos direcciones diferentes, deben de registrarse dos incidentes por separado, por tanto definir correctamente el sitio donde se encuentra.</li> </ul></div>"
+            },
+            {
+                "tema": "",
+                "descripcion": ""
+            },
+            {
+                "tema": "",
+                "descripcion": ""
+            },
+            {
+                "tema": "",
+                "descripcion": ""
+            }
+        ]
     },
     {
         "titulo": "Cementerio",
@@ -108,19 +171,55 @@
             "estructura-municipal": "Subsecretaría de Infraestructura",
             "contacto": ""
         },
-        "tipos-incidentes": ""
+        "tipos-incidentes": [
+            {
+                "tema": "Administración (Consultas)",
+                "descripcion": "<p>Dejar registro en este apartado de las consultas referidas a trámites adminsitrativos.</p> <div class=\"div-preguntas-incidentes\"> <p>Preguntas orientativas al operador:</p> <ul> <li>Solicitar n° de contrato para los casos que responda a una consulta sobre una cuenta de cementerio.</li> <li>Descripción de la consulta en cuestión. Si la misma es por el mantenimiento o por estado edilicio, debe ser registrado en los tipos de incidentes correspondientes.</li> <li>Si la consulta corresponde por entrega de boletas de cementerio (No llegan o ha llegado erróneamente), debe ser registrado en el área de servicio de <i>Rentas</i>.</li> <li>Datos del solicitante completos, con el fin de poder comunicarse con posterioridad para dar respuesta a la consulta pertinente.</li> </ul> </div>"
+            },
+            {
+                "tema": "Arreglo de infraestructura",
+                "descripcion": "<p>Cuando se solicita el arreglo de sectores específicos del cementerio, con lo cual se solicitará que el vecino detalle ubicación del sector afectado, y los tipos de arreglos que se necesiten realizar.</p> <p>Se pedirá que la persona tenga un contrato de cementerio para constatar que paga un servicio por el sector donde solicita intervención.</p>"
+            },
+            {
+                "tema": "Mantenimiento / Limpieza",
+                "descripcion": "<p>Para reclamos por falta de mantenimiento o la limpieza pertinentes de pabellones, nichos, u otros sectores del cementerio.</p> <p>Pueden ser solicitados por cualquier ciudadano, posea o no un pago de tasas de servicio por un contrato de cementerio.</p> <div class=\"div-preguntas-incidentes\"> <p>Preguntas orientativas al operador:</p> <ul> <li>¿Es por deterioro por falta de mantenimiento o de limpieza?</li> <li>¿Qué sector se encuentra afectado? (Datos del lugar)</li> <li>Descripción del reclamo o pedido.</li> </ul> </div>"
+            }
+        ]
     },
     {
         "titulo": "Centros de Atención Municipal",
-        "contenido": [
-            ""
-        ],
+        "contenido": [],
         "datos": {
             "encargado": "Juan José González Montenegro",
             "estructura-municipal": "Subsecretaría de Atención y Cercanía",
             "contacto": "(0261) 155-590511"
         },
-        "tipos-incidentes": ""
+        "tipos-incidentes": [
+            {
+                "tema": "C.A.M. Móvil",
+                "descripcion": "<p>El área posee un servicio de asistencia domiciliaria con el fin de acercar el municipio a los vecinos que por alguna índole no puedan gestionar ciertos trámites.</p> <p>Algunos de las gestiones pueden ser: recpeción de documentación para la formulación de un expte o nota electrónica, gestión para solicitud de eximiciones de tasas a jubilados y pensionados, entrega de boletos por deuda o planes de pago, etc.</p> <p>Se pide declarar bien el motivo de solicitud del servicio, datos completos del solicitante para su posterior contacto, y la dirección lo más precisa posible del solicitante para poder visitarlo.</p> <div class=\"div-preguntas-incidentes\"> <p>Preguntas orientativas al operador:</p> <ul> <li>Motivo de la solicitud</li> <li>Dirección de la persona solicitante.</li> <li>Horarios donde se encuentra personal en el lugar.</li> <li>Declarar datos completos de la persona solicitante en el apartado de los datos del Ciudadano (DNI, nombre, apellido, teléfono, email, dirección).</li> </ul> </div>"
+            },
+            {
+                "tema": "Consulta expte - nota",
+                "descripcion": "<p>Los centros de atención municipal son oficinas que tienen la facultad de ser puntos para el inicio de algunos procedimientos administrativos.</p> <p>Para los casos en que un vecino solicite información sobre el estado exptes o notas iniciadas en las oficinas de Centros de Atención Municipal o Puntos de Cercanía, se solicita sean informados por este tipo de incidente, declarando: N° de Expte/Nota, Tema de la misma, Datos del Caratulado (Iniciador) y Datos completos del solicitante (En el apartado del Ciudadano) con el fin de poder informar en consecuencia si la gestión no puede ser salvada en el momento.</p>"
+            },
+            {
+                "tema": "Otros",
+                "descripcion": "<p>Cuando se refieren a consultas, pedidos, sugerencias o reclamos referidos a los procedimientos ejecutados en los Centros de Atención Municipal / Puntos de Cercanía, se pueden registrar en este apartado.</p> <p>El desempeño del administrativo de la oficina, quejas relacionadas a los CDR que funcionan dentro de las instalaciones, o consultas referidas a las actividades como los Asesoramientos Legales que no puedan ser salvadas en el momento, son algunos de los motivos de carga.</p> <p>Para todos los casos, se pide ser claro en la solicitud, dar ubicación en la dirección de la oficina de la gestión y dejar los datos completos del vecino (en el apartado del Ciudadano), con el fin de poder contactar al mismo en posterioridad. </p>"
+            },
+            {
+                "tema": "",
+                "descripcion": ""
+            },
+            {
+                "tema": "",
+                "descripcion": ""
+            },
+            {
+                "tema": "",
+                "descripcion": ""
+            }
+        ]
     },
     {
         "titulo": "Comercio",
@@ -130,7 +229,72 @@
             "estructura-municipal": "Secretraría de Desarrollo Económico",
             "contacto": "(0261) 449-5294"
         },
-        "tipos-incidentes": ""
+        "tipos-incidentes": [
+            {
+                "tema": "Cartelería en vereda",
+                "descripcion": "<p>Corresponde a toda cartelería sobre la vía pública, sean carteles amurados sobre las fachadas, fijos sobre el suelo de la vereda, o simplemente sobre caballetes, son constatados por el personal de comercio para constatar que se encuentren en regla.</p> <p>Toda cartelería sobre vía pública enra dentro del marco de los derechos de Publicidad y Propaganda (una tasa de cobro bimestral asociado al derecho de comercio al que corresponda). Para el caso, existen cartelerías exclusivas de publicidad, sin necesidad que haya un local comercial en el radio de la Ciudad de Mendoza.</p> <p>Registrar casos donde la cartelería presente irregularidades o genere inconvenientes sobre la transitabilidad y/o uso del espacio público.</p>"
+            },
+            {
+                "tema": "Comercio con alimento en mal estado",
+                "descripcion": "<p>Los inspectores de Bromatología son los encargados de constatar las condiciones de salubridad de los emprendimientos comerciales, especialmente cuando refieren a rubros o actividades que manipulan alimentos.</p> <p>Alimentos en mal estado por las condiciones en que se encuentran acopiados, por pérdida de cadenas de frío en aquellos que deben ser refrigerados, aquellos que se usen o expongan pasados sus fechas de caducidad, son algunos ejemplos de reclamos y denuncias para ser abordados bajo este tipo de incidente.</p>"
+            },
+            {
+                "tema": "Consulta cert. manipulación de alimentos",
+                "descripcion": "<p>El área de Bromatología (una parte a cargo de la Dirección de Comercio y otra por parte de la Dirección de Salud), son los encargados del dictado, emisión y control de los Cerficados de Manipulación de Alimentos, necesario para poder realizar actividades de comercio que impliquen el uso de alimentos en su actividad.</p> <p>Dejar informado en este apartado cualquier consulta que manifieste el ciudadano respecto a este punto.</p>"
+            },{
+                "tema": "Elementos de seguridad",
+                "descripcion": "<p>Los elementos de higiene y seguridad son exigidos tanto para los locales comerciales como para los espacios comunes dentro de las propiedades horizontales.</p> <p>La falta de señalética de salida, luces de emergencia y la falta de matafuegos o sus verificaciones control de carga como así también de pruebas hidráulicas, son alguno de los motivos para el registro de estos incidentes.</p> <p>Están clasificados para reclamos:</p> <ul> <li>En comercios</li> <li>En consorcios</li> </ul>"
+            },
+            {
+                "tema": "Falta de habilitación comercial",
+                "descripcion": "<p>Los locales que no posean un certificado de habilitación visible no siepre es indicio de que un negocio no se encuentre habilitado, ya que puede encontrarse en proceso de habilitación, trámite que según la naturaleza del comercio a habilitar puede demorar meses.</p> <p>Más allá de ello, vecinos que llamen denunciando la falta de habilitación deben manifestar horarios de funcionamiento, actividad a la que se dedica, dirección lo más precisa posible en donde opera, estado de higiene del mismo y si posee algún tipo de cartelería identificatoria.</p>"
+            },
+            {
+                "tema": "Local en malas condiciones de higiene",
+                "descripcion": "<p>Los inspectores de Bromatología son los encargados de constatar las condiciones de salubridad de los emprendimientos comerciales, especialmente cuando refieren a rubros o actividades que manipulan alimentos.</p> <p>Estado de elementos de cocina, limpieza del mobiliario, olores que denoten algún grado de suciedad, higiene de los utensillos que brindan a los comensales o acumulación de basura en lugares inapropiados son algunos de los ejemplos que refieren a este incidente.</p>"
+            },{
+                "tema": "Pensiones no autorizadas",
+                "descripcion": "<p>Los inspectores de comercio al realizar verificaciones de habilitación tienen la potestad de realizar clausuras temporales con multas hasta la regulación de las condiciones o clausuras permanentes por actividades no autorizadas. Las pensiones entran en este último.</p> <p>Cabe recordar al operador que las clausuaras realizadas por el municipio son meramente administrativas: el uso del inmueble particularmente por parte de los dueños del mismo no son de competencia municipal, en especial si refieren a actividades ilícitas, las cuales deben ser manifestadas en denuncias a las fiscalías o destacamento policial más cercano, o llamando al 911 para manifestar la misma.</p>"
+            },
+            {
+                "tema": "Ruidos molestos por actividades de comercio",
+                "descripcion": ""
+            },
+            {
+                "tema": "Venta ambulante",
+                "descripcion": "<p>La venta ambulante se encuentra prohibida por el municipio, salvo algunas excepciones marcadas, como pueden ser emprendimientos de artesanos en espacios y lugares estrictamente estipulados bajo previa autorización o la venta de cafés por cafeteros autorizados bajo las normas que los regulan.</p> <p>Por todo lo demás, es necesario que el operador informe día, horario, lugar y actividad de venta ambulante que se esté llevando a cabo en la vía pública de la Ciudad, donde las actuaciones implican decomisación de la mercadería.</p>"
+            },
+            {
+                "tema": "",
+                "descripcion": ""
+            },{
+                "tema": "",
+                "descripcion": ""
+            },
+            {
+                "tema": "",
+                "descripcion": ""
+            },
+            {
+                "tema": "",
+                "descripcion": ""
+            },
+            {
+                "tema": "",
+                "descripcion": ""
+            },{
+                "tema": "",
+                "descripcion": ""
+            },
+            {
+                "tema": "",
+                "descripcion": ""
+            },
+            {
+                "tema": "",
+                "descripcion": ""
+            }
+        ]
     },
     {
         "titulo": "Control de Gestión",

@@ -59,7 +59,7 @@ document.addEventListener("DOMContentLoaded", function () {
         .catch(error => console.error('Error al cargar el archivo JSON:', error));
 })
 
-const tiposIncidentes = document.addEventListener("DOMContentLoaded", function (item) {
+const tiposIncidentes = function(item) {
 
     const articleTI = document.createElement('article');
     articleTI.classList = "article-incidente";
@@ -83,4 +83,4 @@ const tiposIncidentes = document.addEventListener("DOMContentLoaded", function (
         articleTI.appendChild(divTI);
     }
     return articleTI;
-});
+};
