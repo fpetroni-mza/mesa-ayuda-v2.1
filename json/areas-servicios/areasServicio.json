@@ -143,23 +143,39 @@
         "tipos-incidentes": [
             {
                 "tema": "Colocación / falta de tachas reductoras",
-                "descripcion": "Los reductores de velocidad que se colocan sobre las intersecciones de las calzadas son repuestos por el personal de Obras por Administración. Si la solicitud corresponde a la solicitud de colocación de reductores, debe ser gestionado para el área de Tránsito, debido a que el área técnica debe evaluar la viabilidad de la colocación de las mismas."
+                "descripcion": "<p>Los reductores de velocidad que se colocan sobre las intersecciones de las calzadas son repuestos por el personal de Obras por Administración. Si la solicitud corresponde a la solicitud de colocación de reductores, debe ser gestionado para el área de Tránsito, debido a que el área técnica debe evaluar la viabilidad de la colocación de las mismas.</p>"
             },
             {
-                "tema": "",
-                "descripcion": "La reparación de los cordones corre por parte del servicio de Obras por Adminstración. Si el ciudadano se comunica para solicitar arreglo de cordón de calzada y cuneta, se debe de registrar como incidentes separados, ya que los trabajos por lo general no se ejecutan a la par, salvo que corresponda a un arreglo integral de la sección, programado con antelación en algún proyecto por parte del área.\n<div class=\"div-preguntas-incidentes\"> <p>Preguntas orientativas al operador:</p> <ul> <li>¿Hace cuánto tiempo los cordones se encuentran rotos?</li> <li>¿Se encuentran desgranados, desprendidos o simplemente no se encuentran?</li> <li>Determinar la dirección en la que se encuentran. Si corresponde a dos direcciones diferentes, deben de registrarse dos incidentes por separado, por tanto definir correctamente el sitio donde se encuentra.</li> </ul></div>"
+                "tema": "Cordones faltantes / deteriorados",
+                "descripcion": "<p>La reparación de los cordones corre por parte del servicio de Obras por Adminstración. Si el ciudadano se comunica para solicitar arreglo de cordón de calzada y cuneta, se debe de registrar como incidentes separados, ya que los trabajos por lo general no se ejecutan a la par, salvo que corresponda a un arreglo integral de la sección, programado con antelación en algún proyecto por parte del área.</p> <div class=\"div-preguntas-incidentes\"> <p>Preguntas orientativas al operador:</p> <ul> <li>¿Hace cuánto tiempo los cordones se encuentran rotos?</li> <li>¿Se encuentran desgranados, desprendidos o simplemente no se encuentran?</li> <li>Determinar la dirección en la que se encuentran. Si corresponde a dos direcciones diferentes, deben de registrarse dos incidentes por separado, por tanto definir correctamente el sitio donde se encuentra.</li> </ul> </div>"
             },
             {
-                "tema": "",
-                "descripcion": ""
+                "tema": "Falta de de pintura",
+                "descripcion": "<p>El personal de Obras por Administración se encarga actualmente de realizar el repintado de los cordones y señaléticas horizontales de la vía pública. La supervisión de los trabajos queda a cargo del área técnica de la Dirección de Tránsito, quien determina las intervenciones a realizarse.</p> <p>Cuando un ciudadano se comunique para informar el repintado en vía pública, se debe clasificar el pedido en alguno de los siguientes tipos de incidentes:</p> <ul> <li>en cordones</li> <li>en senda peatonal</li> <li>en bicisendas / ciclovías</li> </ul> <p>El repintado de cordones corresponde a este tipo cuando se puede determinar el color existente en el sitio; es decir, si el vecino desea que se pinte de color amarillo en un sector cuando corresponde verde, entonces el mismo debe registrarse en el área de Tránsito, ya que ellos son los que evalúan el cambio.</p> <div class=\"div-preguntas-incidentes\"> <p>Preguntas orientativas al operador:</p> <ul> <li>¿Se ha despintado completamente o una parte?</li> <li>¿Existía la señalética anteriormente? (Si por ejemplo una senda peatonal no existía antes del pedido).</li> <li>Determinar correctamente la dirección de la intervención. Si la persona informa varias direcciones donde solicita remarcado, entonces debe registrarse un incidene por cada una de las direcciones.</li> </ul> </div>"
             },
             {
-                "tema": "",
-                "descripcion": ""
+                "tema": "Ochava deteriorada (esquina)",
+                "descripcion": "<q>Una ochava (o caflán) es un recurso urbanístico que consiste en unir con una línea oblicua los lados de las manzanas en sus esquinas, eliminándose estas, con el objetivo de mejorar la circulación y su visibilidad y ampliar los cruces, lo que provoca que las parcelas situadas en esos lugares tengan circunstancias físicas especiales. <i> - Definición de <a href=\"https://es.wikipedia.org/wiki/Chafl%C3%A1n_(arquitectura)\" target=\"_blank\">Wikipedia</a></i></q> <div class=\"div-preguntas-incidentes\"> <p>Preguntas orientativas al operador:</p> <ul> <li>¿Qué sector se encuentra comprometido? ¿Sector de vereda, calzada o ambos?</li> <li>Descripción del daño (hundimientos, grietas, roturas, desprendimientos)</li> <li>Referenciar la esquina a la que corresponde el arreglo.</li> <li>Constatar si la solicitud es por reparación o reposición de una rejilla, de una rampa de acceso o la pared de una acequia. En caso que correspondan exclusivamente a apartados puntuales, registrar en los tipos de incidentes asociados. </li> </ul> </div>"
             },
             {
-                "tema": "",
-                "descripcion": ""
+                "tema": "Pozo, grieta o rotura",
+                "descripcion": "<p>El municipio realiza la reparación y mantenimeiento de la vía pública, salvo que correspondan a veredas deterioradas por el paso del tiempo (Deben ser derivadas a Obras Privadas para que un inspector constate el trabajo)</p> <div class=\"div-preguntas-incidentes\"> <p>Preguntas orientativas al operador:</p> <ul> <li>Descripción del sector con el deterioro (agrietamiento, pozos pequeños ocurridos por el paso del tiempo, faltante de adoquines, desgaste o escurrimiento de agua).</li> <li>¿Se encuentra sobre vereda o calzada?</li> <li>En caso que el deterioro sea en vereda, constatar que haya sido provocado por trabajos de empresas privadas o tercerizadas (AySaM, Edemsa, Ecogas, otros). Si el reclamo es por ello, informarse en el tipo de incidente \"Vereda deteriorada por trabajos de empresas\".</li> <li>¿Hace cuánto tiempo se encuentra en esas condiciones?</li> <li>Tamaño aproximado del sector deteriorado.</li> <li>¿El lugar se encuentra señalizado?</li> <li>¿El sector posee brotes de agua o humedad? Si se constata pérdida de agua, antes que el municipio pueda intervenir, se debe dar aviso a AySaM para que realice la reparación pertienente - Informar al contribuyente los teléfonos de la empresa: <strong>0810-777-2482 / 0800-444-8808</strong></li> </ul> </div>"
+            },
+            {
+                "tema": "Rampa faltante o deteriorada",
+                "descripcion": "<p>Las rampas de accesos a discapacitados son colocadas, mantenidas y reparadas por el personal de Obras por Administración.</p> <p>Para el caso, se requiere que se indique la intersección afectada, como así también cuál de las esquinas es por las que se reclaman. Para el caso, determinar si existe o no rampa, y en el caso de existencia, el estado en la que se encuentra (rota, hundida, desgranada, despintada, etc.).</p> <p>Se debe registar un pedido por cada intersección de calles.</p>"
+            },
+            {
+                "tema": "Rejilla faltante o deteriorada",
+                "descripcion": "<div class=\"div-preguntas-incidentes\"> <p>Preguntas orientativas al operador:</p> <ul> <li>¿Se encuentra rota, descuadrada o falta?</li> <li>¿La rejilla afectada es en calzada o en vereda?</li> <li>¿Posee marco? ¿En qué condiciones se encuentra el marco?</li> <li>Se debe declarar exactamente dónde se encuentra.</li> </ul> </div> <span class=\"span-nota-incidentes\">TENER EN CUENTA: Todas las rejillas que se encuentren sobre vereda (a excepción de las de vereda de ochava) deben ser reparadas o repuestas por el frentista, salvo que pueda determinarse que la rotura de la misma haya sido provocado por personal municipal, por trabajos ejecutados por parte del municipio, o por una empresa tercerizada o privada. Para todos los demás casos, el incidente debe ser ingresado para que un inspector de Obras Privadas notifique.</span>"
+            },
+            {
+                "tema": "Talud de acequia deteriorado",
+                "descripcion": "<p>Cuando se habla de talud, se hace referencia a las inclinaciones de paredes o muros, tanto de canalizaciones como de submuraciones. Para el caso, refiere a las paredes de cunetas (Si existiece daño a nivel del piso se acequia, también se registra sobre este tipo de incidente).</p> <div class=\"div-preguntas-incidentes\"> <p>Preguntas orientativas al operador:</p> <ul> <li>¿La acequia dañada se encuentra cubierta o descubierta?</li> <li>¿Se encuentran afectadas los taludes del lado de vereda, del lado de calzada o ambos? </li> <li>¿Se encuentra afectado el piso de la acequia?</li> <li>Descripción del daño y motivo del daño.</li> </ul> </div> <span class=\"span-nota-incidentes\">IMPORTANTE: Si la vereda está rota por las raíces de un árbol ¿las mismas están levantando vereda también? (en este caso informar que debe de presentar una nota por ventanilla unica para el corte de raíces y reparación de la vereda en todos los casos).</span>"
+            },
+            {
+                "tema": "Vereda deteriorada por trabajos de empresas",
+                "descripcion": "<p>Las roturas que se generan en vía pública deben ser reparadas por quienes la rompieron para intervenir en un trabajo sobre el lugar.</p> <p>Cuando se tratan de trabajos sobre vereda, se pueden registrar aquí en caso de corresponder a roturas efectuadas por trabajos de AySaM, Edemsa, Ecogas u otros. Si la rotura o dereioro se ocasiona por el paso del tiempo, debe ser informado a Obras Privadas para su correspondiente notificación, pero si la rotura de vereda se efectúa por culpa de forestales en vía pública, el vecino debe presentar la solicitud de arreglo por medio de un Expediente Electrónico personalmente en Ventanilla Única o enviando un mail a ventanillaunica@ciudaddemendoza.gov.ar</p> <div class=\"div-preguntas-incidentes\"> <p>Preguntas orientativas al operador:</p> <ul> <li>¿Hace cuánto tiempo se encuentra roto (desde el inicio de intervención)?</li> <li>¿Se encuentra descubierto o se ha tapado con algún material (tierra, ripio u otros)? </li> <li>¿Hay pérdida de agua o humedad? En caso afirmativo, informar que debe comunicarse a AySaM para que primero realice la reparación de la pérdida antes que se pueda intervenir en el arreglo de la vereda.</li> <li>Descripción del daño.</li> <li>Registrar un incidente por cada dirección que se informe (que no pertenezcan a la misma intervención).</li> </ul>"
             }
         ]
     },
@@ -241,7 +257,8 @@
             {
                 "tema": "Consulta cert. manipulación de alimentos",
                 "descripcion": "<p>El área de Bromatología (una parte a cargo de la Dirección de Comercio y otra por parte de la Dirección de Salud), son los encargados del dictado, emisión y control de los Cerficados de Manipulación de Alimentos, necesario para poder realizar actividades de comercio que impliquen el uso de alimentos en su actividad.</p> <p>Dejar informado en este apartado cualquier consulta que manifieste el ciudadano respecto a este punto.</p>"
-            },{
+            },
+            {
                 "tema": "Elementos de seguridad",
                 "descripcion": "<p>Los elementos de higiene y seguridad son exigidos tanto para los locales comerciales como para los espacios comunes dentro de las propiedades horizontales.</p> <p>La falta de señalética de salida, luces de emergencia y la falta de matafuegos o sus verificaciones control de carga como así también de pruebas hidráulicas, son alguno de los motivos para el registro de estos incidentes.</p> <p>Están clasificados para reclamos:</p> <ul> <li>En comercios</li> <li>En consorcios</li> </ul>"
             },
@@ -252,7 +269,8 @@
             {
                 "tema": "Local en malas condiciones de higiene",
                 "descripcion": "<p>Los inspectores de Bromatología son los encargados de constatar las condiciones de salubridad de los emprendimientos comerciales, especialmente cuando refieren a rubros o actividades que manipulan alimentos.</p> <p>Estado de elementos de cocina, limpieza del mobiliario, olores que denoten algún grado de suciedad, higiene de los utensillos que brindan a los comensales o acumulación de basura en lugares inapropiados son algunos de los ejemplos que refieren a este incidente.</p>"
-            },{
+            },
+            {
                 "tema": "Pensiones no autorizadas",
                 "descripcion": "<p>Los inspectores de comercio al realizar verificaciones de habilitación tienen la potestad de realizar clausuras temporales con multas hasta la regulación de las condiciones o clausuras permanentes por actividades no autorizadas. Las pensiones entran en este último.</p> <p>Cabe recordar al operador que las clausuaras realizadas por el municipio son meramente administrativas: el uso del inmueble particularmente por parte de los dueños del mismo no son de competencia municipal, en especial si refieren a actividades ilícitas, las cuales deben ser manifestadas en denuncias a las fiscalías o destacamento policial más cercano, o llamando al 911 para manifestar la misma.</p>"
             },
@@ -265,34 +283,16 @@
                 "descripcion": "<p>La venta ambulante se encuentra prohibida por el municipio, salvo algunas excepciones marcadas, como pueden ser emprendimientos de artesanos en espacios y lugares estrictamente estipulados bajo previa autorización o la venta de cafés por cafeteros autorizados bajo las normas que los regulan.</p> <p>Por todo lo demás, es necesario que el operador informe día, horario, lugar y actividad de venta ambulante que se esté llevando a cabo en la vía pública de la Ciudad, donde las actuaciones implican decomisación de la mercadería.</p>"
             },
             {
-                "tema": "",
-                "descripcion": ""
-            },{
-                "tema": "",
-                "descripcion": ""
+                "tema": "Venta de pirotecnia",
+                "descripcion": "<p>La venta de pirotecnia se encuentra prohibida en todo el territorio de la provincia de Mendoza bajo el Art. 74 del <a href=\"https://www.mendoza.gov.ar/gobierno/codigo-contravencional-de-mendoza-2/\" target=\"_blank\">Código Contravencional</a>.</p> <p>El operador debe solicitar: si corresponde a venta ambulante o un local comercial el que se encuentra vendiendo pirotecnia; lugar, días y hora en que se produce la venta; descripción del individuo que se encuentra ejerciendo la venta.</p>"
             },
             {
-                "tema": "",
-                "descripcion": ""
+                "tema": "Venta de alcohol a menores",
+                "descripcion": "<p>Los comerciantes que realizan venta de bebidas alcóholicas se encuentran alcanzados por la normativa que rige la <a href=\"https://www.argentina.gob.ar/normativa/nacional/ley-24788-42480/texto\" target=\"_blank\">Ley Nacional N° 24.788</a>, donde en su Art. 1 expresa <i>Queda prohibido en todo el territorio nacional, el expendio de todo tipo de bebidas alcohólicas a menores de dieciocho años de edad.</i></p> <p>Si el ciudadano llama para denunciar este hecho, el operador debe constatar lugar, día y horario en que ocurre el hecho, si posee cartelería que identifique el local comercial y/o si posee visible cartelería de prohibición de venta de alcohol a menores de edad.</p>"
             },
             {
-                "tema": "",
-                "descripcion": ""
-            },
-            {
-                "tema": "",
-                "descripcion": ""
-            },{
-                "tema": "",
-                "descripcion": ""
-            },
-            {
-                "tema": "",
-                "descripcion": ""
-            },
-            {
-                "tema": "",
-                "descripcion": ""
+                "tema": "Venta de alcohol no autorizado",
+                "descripcion": "<p>Los comercios que deseen expedir alcohol, deben estar autorizados por la Dirección de Comercio, pagando una tasa por dicha autorización.</p> <p>Cuando una persona se contacta para informar que un local vende bebidas alcohólicas sin autorización, debe de solicitarse ubicación (y nombre de ser posible) del propio local comercial, lo más preciso posible, consultar si identifica el rubro (qué actividad ejerce), y los horarios en que lo ejerce, ya que un local puede tener autorización pero la venta de bebidas pero soio hasta las 23:00hs (salvo algunas excepciones). </p>"
             }
         ]
     },
@@ -304,7 +304,20 @@
             "estructura-municipal": "Subsecretaría de Atención y Cercanía",
             "contacto": "(0261) 449-5314"
         },
-        "tipos-incidentes": ""
+        "tipos-incidentes": [
+            {
+                "tema": "Consultas",
+                "descripcion": "<p>Si se recepciona una consulta que no puede ser incorporada en ninguna de las demás áreas de servicios del sistema.</p> <p>Se debe tener en cuenta informar de manera simple y concreta, sin obviar detalles, la consulta en cuestión, para poder ser correctamente procesada por el personal del área. Se solicita a su vez tomar TODOS los datos de contacto del solicitante, a fin de poder dar respuesta a su consulta.</p>"
+            },
+            {
+                "tema": "Felicitaciones",
+                "descripcion": "<p>Cuando se hace mención de una felicitación a un personal específico del municipio. Para el caso se pide registrar, de ser posible, los datos del empleado (nombre completo, área en la que se desempeña, trabajo ejecutado o servicio brindado por el cual lo felicita, o cualquier otro detalle que ayude a la gestión de la felicitación)</p>"
+            },
+            {
+                "tema": "Sugerencias",
+                "descripcion": "<p>Cuando el veicno se comunica para la realización de una sugerencia a brindar al municipio y la gestión, gestionar por esta vía.</p> <p>Para una correcta gestión de la sugerencia, se solicita que la misma evite ser \"generalista\", es decir no anotar sugerencias del tipo: <i>Sugiero que se pode en toda la ciudad</i> ó <i>sugiero que se coloquen más semáforos</i>.</p> <p>Las sugerencias a registrar deben ser en lo posible fundamentadas, a fin de poder tomar en consideración y evaluar correctamente la misma.</p>"
+            }
+        ]
     },
     {
         "titulo": "Espacios Verdes",
@@ -328,7 +341,52 @@
             "estructura-municipal": "Dirección de Higiene Urbana / Subsecretaría de Planificación y Arbolado",
             "contacto": ""
         },
-        "tipos-incidentes": ""
+        "tipos-incidentes": [
+            {
+                "tema": "Basura domiciliaria",
+                "descripcion": "<p>La basura domiciliaria (o residuos domiciliarios) es aquella que los vecinos de la ciudad retiran de forma diaria y corresponden a desperdicios generados como consecuencia de los procesos de consumo y desarrollo de las actividades humanas. </p> <p>El municipio ha determinado que los días de recolección de residuos domiciliarios son los lunes, miércoles, viernes y domingos, a partir de las 21:00hs. Los días jueves se ha dispuesto para el retiro EXCLUSIVO de residuos clasificados para su reciclaje y que se encuentren correctamente separados (plásticos, cartones y papeles, vidrios, tela). Los días martes y sábados no hay retiro de residuos domiciliarios.</p> <p>Según la denuncia que manifieste el ciudadano, registrar el incidente como:</p> <ul> <li><b>en día no permitido:</b> si un vecino informa por retiro de residuos cuando no correspondía dejar en la vía pública.</li> <li><b>fuera de horario:</b> cuando se ha retirado el residuo antes del horario estipulado.</li> <li><b>no retirada:</b> cuando el servicio no ha retirado la basura (ACLARACIÓN: puede que no se haya retirado un día jueves porque el servicio determinó que la misma no era basura para reciclaje).</li> </ul>"
+            },
+            {
+                "tema": "Cestos papeleros dañados",
+                "descripcion": "<p>Los cestos papeleros son dispuestos en puntos estratégicos con un flujo de peatones importante, como calles céntricas de la Ciudad de Mendoza o las garitas (estructuras de resguardo) en paradas de colectivos. En caso de sarturación, se debe establecer dónde se encuentra el cesto en cuestión a fin de poder ubicarlo rapidamente y realizar su vaciado.</p> </div>"
+            },
+            {
+                "tema": "Contenedores de residuos",
+                "descripcion": "<p>Los contenedores de residuos son colocados en algunos puntos estratégicos de la ciudad para complementar el volumen de residuos que puede generarse.</p> <p>Las solicitudes de contenedores nuevos deben solicitarse por medio de una nota personalmente en la Municipalidad o por mail a ventanillaunica@ciudaddemendoza.gov.ar. El área de Higiene Urbana evaluará la factibilidad de colocación del mismo.</p> <p>Según el pedido, puede ingresarse el incidente en alguna de las siguientes categorías:</p> <ul> <li>Contenedor roto</li> <li>Contenedor saturado</li> </ul> <div class=\"div-preguntas-incidentes\"> <p>Preguntas orientativas al operador:</p> <ul> <li>¿De qué material es el contenedor?</li> <li>En caso de rotura, descripción del daño</li> <li>En caso de saturación, hace cuánto se encuentra lleno.</li> <li>¿Dónde se encuentra el contendor? Debe colocarse en la dirección la ubicación lo más precisa posible.</li> </ul> </div>"
+            },
+            {
+                "tema": "Limpieza de calzada",
+                "descripcion": "<p>La calzada (calle) que requiere un barrido es aquella que se encuentra con hojas o restos de papeles, plasticos, tierra u otro tipo de basura que no se encuentra en acopio (montículo) sobre las orillas de la misma. El barrido suele realizarse con un camión especial para dicha tarea (barredora). Cuando el ciudadano refiere a la limpieza de escombros, hojas u otra suciedad en acopio, debe registrarse como Retiro de Residuos en vía pública (clasificado según el material en acopio).</p>"
+            },
+            {
+                "tema": "Limpieza de zanjas o acequias",
+                "descripcion": "<p></p> <div class=\"div-preguntas-incidentes\"> <p>Preguntas orientativas al operador:</p> <ul> <li>¿Qué tipo de suciedad posee? (Restos de hojas, tierra, piedras, plasticos, orgánicos, otros)</li> <li>¿Hay embanque de agua o barro?</li> <li>¿Se encuentra circulando agua? ¿Está por derbodar? (En caso afirmativo, se debe registrar el incidente para <i>Taponamiento de acequia con desborde o por desbordar</i>) </li> <li>¿La suciedad se encuentra a la vista? ¿O se encuentra bajo puente, rejilla, sifón...? </li> <li>¿El servicio pasa con regularidad? ¿Cuándo fue la última vez que la limpiaron?</li> <li>Declarar bien el lugar donde se encuentra la suciedad puntual. No deben tomarse registros donde lo que solicita es la limpieza en cuadras o zonas completas.</li> </ul> </div>"
+            },
+            {
+                "tema": "Presencia de aguas servidas o residuales",
+                "descripcion": "<p></p>"
+            },
+            {
+                "tema": "Retiro de animal muerto",
+                "descripcion": "<p>El retiro de animales muertos es un servicio que requiere inmediatez en su ejecución, debido a temas de salubridad. Los retiros se hacen en el transcurso de 24hs y se requiere que el animal se encuentre sobre la vía pública para fácil retiro (en caso de ser una mascota del ciudadano que llama para su retiro)</p> <div class=\"div-preguntas-incidentes\"> <p>Preguntas orientativas al operador:</p> <ul> <li>¿Qué animal es? (Perro, gato, otros)</li> <li>¿Dónde se encuentra dispuesto? (Sobre vereda, en la orilla de calzada, en cuneta, bajo puente)</li> <li>Recordar al solicitante que intende dejarlos tapados.</li> </ul> </div>"
+            },
+            {
+                "tema": "Retiro de residuos <i>en acopio</i>",
+                "descripcion": "<p>El retiro de residuos en acopio, es decir, los que no corresponden a los domiciliarios, se encuentra restringido a una cantida de 1/2 m<sup>3</sup> por mes, que corresponden aproximadamente a unas tres (3) carretillas o 4 bolsas de consorcio. </p> <p>De acuerdo al tipo de residuo, se debe ingresar el pedido de retiro en:</p> <ul> <li>escombros en vía pública</li> <li>remanentes en vía pública</li> <li>varios en vía pública</li> </ul>"
+            },
+            {
+                "tema": "Solicitud de nuevo contenedor",
+                "descripcion": "<p>La solicitud de contenedores nuevos debe ser realizado por medio del ingreso de una nota a través de Mesa de Entradas (Ventanilla Única) de forma presencial o enviando un mail a ventanillaunica@ciudaddemendoza.gov.ar.</p>"
+            },
+            {
+                "tema": "Taponamiento de acequia con desborde o por desbordar",
+                "descripcion": "<p>Se entiende como prioridad alta este tipo de pedidos debido a la posibilidad de generar algún tipo de inconveniente a la transitabilidad en vía pública, debido a que un desborde genera la circulación de agua sobre calzadas que puede ocultar desperfectos o elementos que son peligrosos al intentar cruzarlos.</p> <p>Debe informarse dónde se encuentra el tapón que genera el desborde para poder resolver el problema, y la descripción del inconveniente que se encuentra generando.</p>"
+            },
+            {
+                "tema": "Vuelcos y derrames de efluentes líquidos",
+                "descripcion": "<p>Cuando por alguna razón se realiza un vuelco de efluentes líquidos, el mismo puede generar un peligro a la transitabilidad de los ciudadanos, por tanto debe catalogarse como prioridad Alta. </p> <p>Se puede entender como efluente líquido a: aceites, combustibles, alcoholes, detergentes, jabones, aguas grises o negras, entre otros.</p> <div class=\"div-preguntas-incidentes\"> <p>Preguntas orientativas al operador:</p> <ul> <li>¿Qué tipo de líquido se ha derramado?</li> <li>¿En qué zona se ha derramado? (Vereda, calzada, cuneta)</li> <li>¿Es mucha cantidad?</li> <li>¿Qué lo ha volcado?</li> </ul> </div>"
+            }
+        ]
     },
     {
         "titulo": "Obras Privadas",
@@ -338,7 +396,80 @@
             "estructura-municipal": "Dirección de Obras Privadas / Subsecretraría de Planificación y Arbolado",
             "contacto": "(0261) 449-5140/5147"
         },
-        "tipos-incidentes": ""
+        "tipos-incidentes": [
+            {
+                "tema": "Aguas Servidas",
+                "descripcion": "<p>Los inspectores de obras notifican sobre vertido de aguas grises o negras sobre acequias de propiedades privadas.</p> <p>Si el agua servida proviene de la calle debe intervenir AYSAM, por lo que puede comunicarse Obras Públicas para constatar y notificar a la empresa a que actúe.</p> <div class=\"div-preguntas-incidentes\"> <p>Preguntas orientativas al operador:</p> <ul> <li>Domicilio de dónde se observa el vertido de aguas servidas.</li> <li>Horarios en que ocurre el vertido (los inspectores deben poder constatar en vía pública la presencia de aguas servidas para poder notificar y/o multar en consecuencia).</li> <li>Descripción de las aguas servidas que se vierten (Aguas grises: aguas de lavarropas, secarropas o duchas y lavabos || Aguas negras: aguas cloacales.)</li> <li>¿El vertido corresponde a una propiedad o a un local comercial?</li> </ul> </div>"
+            },
+            {
+                "tema": "Baldío cerrado con malas condiciones de higiene",
+                "descripcion": ""
+            },
+            {
+                "tema": "Baldío sin cierre o con cierre roto",
+                "descripcion": ""
+            },
+            {
+                "tema": "Baño químico de obra civil en vía pública",
+                "descripcion": ""
+            },
+            {
+                "tema": "Camión de obra obstruye la vía pública",
+                "descripcion": ""
+            },
+            {
+                "tema": "Construcción sin permiso o sin cartel de obra",
+                "descripcion": "<p>Las obras que se ejecuten en la Ciudad de Mendoza, sean obra nueva, ampliación, remodelación o demolición, deben ser comunicadas y solicitar su viabilidad correspondientemente al municipio. En caso de una denuncia por obra clandestina, puede ser regristrada con este tipo de incidente.</p> <p>Cabe aclarar que una obra que se ejecute sin cartel de obra no significa necesariamente que no se encuentre autorizada: a veces el cartel de obra se encuentra sujeto a la envergadura de la ejecución de trabajos que se deba realizar.</p>"
+            },
+            {
+                "tema": "Contenedor de obra privada en vía pública",
+                "descripcion": "<p>Los contenedores que los propietarios de inmuebles en la Ciudad de Mendoza alquilan para uso privado (ya sea para acopio de materiales en uso o para el vertido de escombros, remanenentes u otros residuos), pueden ser colocados sin autorización sobre la vía pública, en un espacio sobre la orilla de la calzada (siempre que no obstaculice la visual de las intersecciones ni salidas de puentes vehiculares) o sobre vereda (siempre que no obstaculice la transitabilidad de la misma; en este caso puede... )</p>"
+            },
+            {
+                "tema": "Inspección de ascensores",
+                "descripcion": "<p></p> <div class=\"div-preguntas-incidentes\"> <p>Preguntas orientativas al operador:</p> <ul> <li>¿El ascensor posee obleas que indiquen el n° de expediente de control y la empresa que realiza las verificaciones?</li> <li>En caso de tener la oblea, solicitar de ser posible los datos de la empresa, n° de expte y última inspección registrada.</li> <li>Descripción de los problemas que posee el ascensor (ruidos, no funciona, falta de luces, botoneras rotas, etc.).</li> <li>Horarios en que funciona la administración, a fin que el inspector de obras privadas pueda ingresar a constatar. En su defecto, persona que permitirá ingresar al inspector. </li> </ul> </div>"
+            },
+            {
+                "tema": "Materiales de construcción en vía pública",
+                "descripcion": "<p>Una obra en construcción debe poseer los materiales que usará en la ejecución de la obra, dentro de los límites del inmueble, no en la vereda ni en la calzada (salvo que sea transitoriamente por temas de descarga del mismo material).</p> <p>Si no cumplen con esta pauta, se le debe solicitar a quien esté realizando el reclamo si puede brindar los datos de: dirección de la obra, N° de expte de la obra (en caso de no poseer cartel de obra, también informarlo), tipo de material y dónde se encuentran en acopio, y si están obstaculizando totalmente el paso peatonal (para el caso de acopio en vereda)</p>"
+            },
+            {
+                "tema": "Obra paralizada o abandonada",
+                "descripcion": "<p>En caso de constatarse el abandono de una obra, por la razón que sea, debe ser informada para constatar las condiciones en las que se encuentra la misma.</p> <p>Los inspectores pueden ordenar poner el lugar en condiciones hasta tanto los trabajos se renueven, por lo que es importante solicitar: informar si existe cartel de obra y los datos de la misma, dirección lo más precisa posible, descripción de las condiciones del lugar y el tiempo aproximado transcurrido desde el freno de los trabajos o el abandono de la misma.</p>"
+            },
+            {
+                "tema": "Poste de obra privada en mal estado",
+                "descripcion": "<p>Los postes de obras que se colocan provisoriamente para brindar servicio de electricidad para la ejecución de los trabajos mientras se ejecute la obra en cuestión. Luego de ello, se exige la construcción de la pilastra definitiva donde se incorporará el medidor eléctrico.</p> <p>Puede que exista el caso de una propiedad ya concluída donde siga conservando el poste de obra, para lo cual debe informarse correspondientemente, o que el mismo poste se encuentre con algunos cables sueltos o la base del poste floja, lo que puede ocasionar una caída del mismo.</p> <div class=\"div-preguntas-incidentes\"> <p>Preguntas orientativas al operador:</p> <ul> <li>¿El poste se encuentra sobre la vereda o dentro de los límites de la propiedad?</li> <li>¿El poste está en una obra en construcción o en una propiedad contruída y habitada?</li> <li>Estado general del poste.</li> <li>Dirección del lugar donde se encuentre el poste de obra declarado</li> <li>De ser posible, incorporar los datos del cartel de obra, si es que existe el mismo.</li> </ul> </div>"
+            },
+            {
+                "tema": "Riesgo a terceros",
+                "descripcion": "<p>Las obras de ejecución privada deben tener pautas y elementos de seguridad que eviten generar peligros a las personas que circulen cerca de ellas, en especial en lo referente a la vía pública.</p> <p>Según sea el caso, registrar en alguno de los siguientes tipos:</p> <ul> <li>Falta de protección</li> <li>Vallado mal colocado</li> </ul> <p>Debe registrarse la dirección y los datos (si se tuviesen por medio de cartel de obra) de la obra en sí, horarios de trabajos, problema de seguridad que está generando a los vecinos aledaños o de la vía pública.</p>"
+            },
+            {
+                "tema": "Ruidos de obras fuera de los horarios permitidos",
+                "descripcion": ""
+            },
+            {
+                "tema": "Verificación de veredas en mal estado",
+                "descripcion": ""
+            },
+            {
+                "tema": "Verificación por falta de cestos de residuos domiciliarios",
+                "descripcion": ""
+            },
+            {
+                "tema": "Verificación por falta de placa numérica",
+                "descripcion": ""
+            },
+            {
+                "tema": "Verificación por inmueble abandonado",
+                "descripcion": ""
+            },
+            {
+                "tema": "Verificación por potencial derrumbe de inmueble",
+                "descripcion": ""
+            }
+        ]
     },
     {
         "titulo": "Obras Públicas",
@@ -348,7 +479,56 @@
             "estructura-municipal": "Dirección de Obras Públicas / Subsecretaría de Infraestructura",
             "contacto": ""
         },
-        "tipos-incidentes": ""
+        "tipos-incidentes": [
+            {
+                "tema": "Daños a personas",
+                "descripcion": ""
+            },
+            {
+                "tema": "Estado de oba locación municipal (inmueble municipal)",
+                "descripcion": ""
+            },
+            {
+                "tema": "Limpieza de obra vial",
+                "descripcion": ""
+            },
+            {
+                "tema": "Paralización de obra municipal",
+                "descripcion": ""
+            },
+            {
+                "tema": "Restos de obra sin recoger",
+                "descripcion": ""
+            },
+            {
+                "tema": "",
+                "descripcion": ""
+            },
+            {
+                "tema": "",
+                "descripcion": ""
+            },
+            {
+                "tema": "",
+                "descripcion": ""
+            },
+            {
+                "tema": "",
+                "descripcion": ""
+            },
+            {
+                "tema": "",
+                "descripcion": ""
+            },
+            {
+                "tema": "",
+                "descripcion": ""
+            },
+            {
+                "tema": "",
+                "descripcion": ""
+            }
+        ]
     },
     {
         "titulo": "Rentas",
@@ -360,17 +540,55 @@
             "estructura-municipal": "Dirección de Rentas / Secretraría de Hacienda",
             "contacto": ""
         },
-        "tipos-incidentes": ""
+        "tipos-incidentes": [
+            {
+                "tema": "Boleto municipal no recepcionado (en Capital)",
+                "descripcion": "<p><i>Los boletos de pago de tasas municipales (Servicios a la Propiedad Raíz, Derechos Generales), son emitidos de forma bimestral, en los meses impares y generalmente durante la primera semana del mes de emisión. Los boletos de Derechos de Cementerio se emiten de forma semestral.</i></p> <p>Las masivas enviadas a los domicilios dentro del radio del municipio de capital son entregadas por repartidores propios del municipio, de los cuales deben llevar registro de cada entrega. Por ello, es posible dar un rastreo de los mismos para los casos en que algún boleto no ha sido entregado.</p> <p>Sea el caso en cuestión, debe informarse en las observaciones: Padrón Municipal, N° de Cuenta de Comercio o N° de Cuenta de Cementerio; Nombre del Titular de la cuenta; Domicilio Real del Inmueble; Domicilio Postal del Inmueble (Datos extraídos del Si.Ge.M.I.)</p>"
+            },
+            {
+                "tema": "Boleto municipal no recepcionado (Fuera de Capital)",
+                "descripcion": "<p><i>Los boletos de pago de tasas municipales (Servicios a la Propiedad Raíz, Derechos Generales), son emitidos de forma bimestral, en los meses impares y generalmente durante la primera semana del mes de emisión. Los boletos de Derechos de Cementerio se emiten de forma semestral.</i></p> <p>Las masivas enviadas a los domicilios dentro del radio del municipio de capital son entregadas por repartidores propios del municipio, de los cuales deben llevar registro de cada entrega. Por ello, es posible dar un rastreo de los mismos para los casos en que algún boleto no ha sido entregado.</p> <p>Sea el caso en cuestión, debe informarse en las observaciones: Padrón Municipal, N° de Cuenta de Comercio o N° de Cuenta de Cementerio; Nombre del Titular de la cuenta; Domicilio Real del Inmueble; Domicilio Postal del Inmueble (Datos extraídos del Si.Ge.M.I.)</p>"
+            },
+            {
+                "tema": "Boleto municipal mal entregado",
+                "descripcion": "<p><i>Los boletos de pago de tasas municipales (Servicios a la Propiedad Raíz, Derechos Generales), son emitidos de forma bimestral, en los meses impares y generalmente durante la primera semana del mes de emisión. Los boletos de Derechos de Cementerio se emiten de forma semestral.</i></p> <p>Cuando un vecino informa que ha recepcionado una boleta que no le corresponde, se puede dejar registro con el fin de constatar si es por error en el reparto o porque los datos de entrega se encuentran mal acentados.</p> <p>Sea el caso en cuestión, debe informarse en las observaciones: Padrón Municipal, N° de Cuenta de Comercio o N° de Cuenta de Cementerio; Nombre del Titular de la cuenta; Domicilio Real del Inmueble; Domicilio Postal del Inmueble (Datos extraídos del Si.Ge.M.I.) y el domicilio donde se ha entregado el boleto erróneo.</p>"
+            }
+        ]
     },
     {
         "titulo": "Salud Animal",
         "contenido": [],
         "datos": {
-            "encargado": "Patricia Aldunate / Inés Torres",
+            "encargado": "Patricia Aldunate (Directora) / Inés Torres (Veterinaria)",
             "estructura-municipal": "Dirección de Salud",
             "contacto": ""
         },
-        "tipos-incidentes": ""
+        "tipos-incidentes": [
+            {
+                "tema": "Animales en estado de abandono",
+                "descripcion": ""
+            },
+            {
+                "tema": "Animales enfermos en vía pública",
+                "descripcion": ""
+            },
+            {
+                "tema": "Animales vagabundos",
+                "descripcion": ""
+            },
+            {
+                "tema": "Consultas de móvil veterinario",
+                "descripcion": "<div class=\"div-preguntas-incidentes\"> <p>Preguntas orientativas al operador:</p> <ul> <li>¿Observa nidos o lugares donde los pericotes pueden estar escondiéndose?</li> <li>¿Están ingresando al domicilio?</li> <li>¿Provienen de una propiedad o baldió privado? (No se realizan desinfecciones internas, por lo cual si corresponde a un baldío se toma una gestión para establecer la condición del mismo.)</li> <li>¿Ha solicitado la colocación de los cebos en otra oportunidad? ¿Hace cuánto tiempo?</li> <li>¿En qué dirección ocurre esto?</li> </ul> </div>"
+            },
+            {
+                "tema": "Maltrato animal",
+                "descripcion": ""
+            },
+            {
+                "tema": "Situación de mordedora",
+                "descripcion": ""
+            }
+        ]
     },
     {
         "titulo": "Saneamiento Ambiental",
@@ -380,17 +598,51 @@
             "estructura-municipal": "Dirección de Higiene Urbana / Subsecretaría de Planificación y Arbolado",
             "contacto": ""
         },
-        "tipos-incidentes": ""
+        "tipos-incidentes": [
+            {
+                "tema": "Cebos por pericotes en vía pública",
+                "descripcion": "<p></p> <div class=\"div-preguntas-incidentes\"> <p>Preguntas orientativas al operador:</p> <ul> <li>¿Observa nidos o lugares donde los pericotes pueden estar escondiéndose?</li> <li>¿Están ingresando al domicilio?</li> <li>¿Provienen de una propiedad o baldió privado? (No se realizan desinfecciones internas, por lo cual si corresponde a un baldío se toma una gestión para establecer la condición del mismo.)</li> <li>¿Ha solicitado la colocación de los cebos en otra oportunidad? ¿Hace cuánto tiempo?</li> <li>¿En qué dirección ocurre esto?</li> </ul> </div>"
+            },
+            {
+                "tema": "Desinfección de aberturas de fachadas",
+                "descripcion": "<p>El servicio de desinfección no se realiza dentro de los domicilios, sólo puede realizarse la fumigación dentro en las aberturas de puertas y ventanas que den hacia la vía pública. En caso de solicitud de desinfección interna, debe de contratar un servicio privado.</p> <p>Si para el caso la desinfección solicitada es por la presencia de vinchucas, debe informarse que si posee el especimen, lo presente en Zoonosis del Hosp. Lencinas a fin de que le realicen el estudios por si es positivo en Trypanosoma cruzi (parásito del Mal de Chagas).</p>"
+            },
+            {
+                "tema": "Fumigaciones de dependencias municipales",
+                "descripcion": "<p>Se deben dejar aclarado los datos de la persona que realiza el pedido de la desinfección, como así también los datos de qué depndencia municipal se trata.</p> <p>El servicio se pondrá en contacto para la coordinación de los trabajos de fumigación respectivos. </p>"
+            },
+            {
+                "tema": "Saneamientos varios (Desinfección: pulgas, cucarachas, hormigas)",
+                "descripcion": "<p><i>Solo para los casos que responden a Barrios del Oeste</i></p> <p>Para el procedimiento, se autoriza según las condiciones que determine una asistente social o personal del salud debido a riesgos que pueda provocar la plaga en el domicilio afectado.</p> <p>Dejar constancia de los datos completos del vecino que se comunica en el apartado de Datos del Ciudadano, comoo así también la dirección precisa del domicilio a visitar.</p>"
+            }
+        ]
     },
     {
         "titulo": "Seguridad Ciudadana",
         "contenido": [],
         "datos": {
-            "encargado": "Mario Campos",
+            "encargado": "Mario Campos (Secretario)",
             "estructura-municipal": "Secretaría de Seguridad Ciudadana",
             "contacto": ""
         },
-        "tipos-incidentes": ""
+        "tipos-incidentes": [
+            {
+                "tema": "Alarma de comercio (horario nocturno)",
+                "descripcion": "<p>Es necesario registrar correctamente la dirección del local comercial. El personal de preventores se desplazará para constatar cualquier hecho que puede estar ocurriendo.</p>"
+            },
+            {
+                "tema": "Código de Convivencia",
+                "descripcion": "<p>El código de</p> <ul> <li>Quema de hojas, ramas o residuos</li> <li>Consumo de alcohol en vía pública</li> <li>Contratación servicios sexuales</li> <li>Maltrato Animal</li> <li>Misión / deposición</li> <li>Trapitos, grafitos</li> </ul>"
+            },
+            {
+                "tema": "Disturbios en vía pública",
+                "descripcion": ""
+            },
+            {
+                "tema": "Personas en situación de vulnerabilidad",
+                "descripcion": ""
+            }
+        ]
     },
     {
         "titulo": "Tránsito",
@@ -403,7 +655,40 @@
             "estructura-municipal": "Dirección de Tránsito / Secretaría de Seguridad Ciudadana",
             "contacto": "(0261) 449-5306 /Cambiar/"
         },
-        "tipos-incidentes": ""
+        "tipos-incidentes": [
+            {
+                "tema": "Alarma de comercio (horario diurno)",
+                "descripcion": "<p>Es necesario registrar correctamente la dirección del local comercial. El personal de tránsito se trasladará para dar aviso a los propietarios del hecho que está ocurriendo.</p> <p>En caso de disparo de alarmas vehiculares, dejar registro de las características del vehículo, y de ser factible, la matrícula del mismo</p>"
+            },
+            {
+                "tema": "Auto en estado de abandono",
+                "descripcion": "<p>Un auto en estado de abandono se evidencia en sus condiciones (acumulación de suciedad marcada, falta de ruedas, vidrios rotos, pintura saltada), además de no evidenciarse un uso periódico. Por tanto es importante declarar que un vehículo estacionado sobre la vía pública puede no ser un vehículo en estado de abandono (por ejemplo, que no ha sido movido de lugar en el transcurso de tres días o una semana).</p> <div class=\"div-preguntas-incidentes\"> <p>Preguntas orientativas al operador:</p> <ul> <li>Descripción del vehículo (estado de la carrocería, faltante o no de cubiertas, suciedad alrededor, chapa patente si tuviera).</li> <li>¿Hace cuánto tiempo se encuentra en estado de abandono?</li> <li>¿Sobre vereda, puente de acceso vehicular o calzada?</li> </ul> </div> <span class=\"span-nota-incidentes\">NOTA: No todos los autos en estado de abandono pueden ser acarreados. Esto se puede deber a varios factores (gran porte, falta de ruedas o estructura para su traslado, entre otros), pero ello no implica que la oficina de tránsito se encuentre ejecutando un procedimiento de sanción al titular del mismo.</span>"
+            },
+            {
+                "tema": "Auto mal estacionado",
+                "descripcion": "<p>Como oficina de aplicación y control de la Ley de Tránsito Provincial 9024/17, los inspectores sancionan los vehículos mal estacionados. En la recepción de la denuncia, se pide clasificar en alguno de los siguientes tipos de incidentes de auto mal estacionado:</p> <ul> <li>Cajón de discapacitados</li> <li>Línea amarilla / disco prohibido estacionar</li> <li>Obstrucción de salida de cochera</li> <li>Puente / vereda con o sin garage</li> <li>Senda peatonal / rampa de discapacidad</li> <li>Otros</li> </ul> <div class=\"div-preguntas-incidentes\"> <p>Preguntas orientativas al operador:</p> <ul> <li>¿Características del vehículos? (tipo, color, modelo, matrícula)</li> <li>Declarar la dirección lo más precisa posible.</li> <li>Tomar de ser posible los datos completos del denunciante (El vecino debe firmar una solicitud de acarreo, procedimiento que en la generalidad no se ejecuta salvo situaciones de emergencia) </li> </ul> </div>"
+            },
+            {
+                "tema": "Código de Convivencia (Ruidos Molestos)",
+                "descripcion": ""
+            },
+            {
+                "tema": "Recolección informal",
+                "descripcion": "<p>La Oficina Técnica de la Dirección de Tránsito se encarga de la colocación, evaluación y mantenimento de la señalización vial de la Ciudad de Mendoza.</p> <p>Para el caso, la oficina actualmente se dedica al remarcado de los \"cajones de estacionamiento\" (cajones de discapacitados, demarcado amarillos a pedidos, entre otros).</p> <div class=\"div-preguntas-incidentes\"> <p>Preguntas orientativas al operador:</p> <ul> <li>Identificar el repintado a solicitar (si corresponde a sendas peatonales, cordones verdes o amariilos existentes, se debe registrar para el área de servicio Calles y Veredas).</li> <li>¿El cajón exclusivo para personas con discapacidad es existente? Para los casos en que se solicita por primera vez, debe ser realizado por nota en la Dirección de Tránsito (Coronel Plaza 133 esq. 9 de Julio, Ciudad)</li> <li>Se debe solicitar la dirección exacta del cordón que se debe remarcar.</li> </ul> </div>"
+            },
+            {
+                "tema": "Semáforos",
+                "descripcion": "<p>La red semafórica de la Ciudad puede ser de mantenimiento municipal o provincial, dependiedo del semáforo en cuestión.</p> <p>En todos los casos, tránsito interviene independientemente de quien sea el responsable de su mantenimiento, ya que debe evaluar con un motorista en el lugar el estado del aparato y constatar el flujo vehicular, para brindar asistencia al mismo.</p> <div class=\"div-preguntas-incidentes\"> <p>Preguntas orientativas al operador:</p> <ul> <li>¿El semáforo se encuentra: apagado, intermitente o roto?</li> <li>¿Hay problemas en el flujo del tránsito vehicular?</li> <li>¿Hace cuánto tiempo se encuentra así?</li> </ul> </div> <p>Se debe determinar el tipo de daño del semáforo para englobarlo en alguno de las siguientes 3 clasificaciones de este incidente.</p> <ul> <li>Apagado</li> <li>Intermitente</li> <li>Roto</li> </ul>"
+            },
+            {
+                "tema": "Señalética Rota",
+                "descripcion": "<p>Una señalética puede ser de dos tipos: <b>vertical</b>, es decir señaléticas de control para informar a los usuarios (discos pare, prohibido estacionar, prioridades de paso, tipos de vías, velocidades máximas y mínimas, entre otros); u <b>horizontaL</b>, que se encuentran sobre el pavimento y son usados para canalizar el tránsito, indicar el tránsito o complementar la información de otros dispositivos</p> <p>En todos los casos, se debe indicar el lugar donde la misma falte o se encuentre rota, indicando sus características y declarando la dirección lo más exacta posible.</p>"
+            },
+            {
+                "tema": "Siniestro Vial",
+                "descripcion": "<p>Se catalogan de <strong>URGENCIA</strong>. Se deben registrar todos los siniestros viales, sea con heridos o no. También es importante que si la persona que se comunica es una de las involucradas en el hecho, informar el procedimiento: <i>Se le informará al personal de tránsito para el desplazamiento de un móvil con el fin de labrar las actuaciones correspondentes del siniestro ocurrido. Por favor no manipulen la escena, y si es posible, colóquense en un lugar fuera del flujo del tránsito vehicular, para evitar cualquier otro hecho de inseguridad en la circulación.</i> </p> <p>No debe haber demora en la recepción de la llamada. Tomar los registros necesarios para el paso del incidente al área de tránsito, pero sin perder la calma, principalmente si en el lugar hay heridos que puedan provocar nerviosismo en quien esté en comunicación.</p> <div class=\"div-preguntas-incidentes\"> <p>Preguntas orientativas al operador:</p> <ul> <li>¿Cuántos y de qué tipo son los vehículos involucrados en el siniestro?</li> <li>¿Hay interrupción total o parcial del tránsito?</li> <li>¿Hay personas heridas en el hecho?</li> </ul> </div>"
+            }
+        ]
     },
     {
         "titulo": "",

@@ -34,6 +34,12 @@ header p {
     padding-top: 20px;
 }
 
+header h1 {
+    font-size: 48px;
+    font-weight: 700;
+    color: #f2f2f2;
+}
+
 main {
     margin: 0 auto;
     max-width: 720px;
@@ -133,6 +139,8 @@ main {
 
 .nav-header a {
     color: #f2f2f2;
+    font-size: 28px;
+    text-decoration: none;
 }
 
 
@@ -171,6 +179,10 @@ section>p {
     padding-right: 15px;
     font-size: 0.9rem;
     text-align: justify;
+}
+
+.container-incidente h3 {
+    text-align: left;
 }
 
 .container-incidente>p {
